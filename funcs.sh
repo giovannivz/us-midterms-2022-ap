@@ -23,7 +23,7 @@ gitupload() {
 
     # Use git to find differences and push to github
     git add -A $prefix
-    git diff --cached --name-only
+    git diff --cached --name-only | cat
     git add log.txt
 
     updated=$(git diff --name-only --cached $prefix | xargs)
