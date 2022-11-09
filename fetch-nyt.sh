@@ -2,8 +2,10 @@
 
 . ./funcs.sh
 
-#download "NYT" "https://static01.nyt.com/elections-assets/2020/data/api/2021-09-14/state-page/california.json"
-#download "NYT" "https://static01.nyt.com/elections-assets/2022/data/api/2022-11-07/state-page/california.json"
+download NYT https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-senate.json
+
+##download "NYT" "https://static01.nyt.com/elections-assets/2020/data/api/2021-09-14/state-page/california.json"
+##download "NYT" "https://static01.nyt.com/elections-assets/2022/data/api/2022-11-07/state-page/california.json"
 
 
 #https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/national-map-page/national/senate.json
