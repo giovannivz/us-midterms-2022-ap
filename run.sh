@@ -3,8 +3,6 @@
 . ./funcs.sh
 
 while [ 1 ]; do
-    ./fetch-ap.sh &
-    ./fetch-nyt.sh &
-    wait %1 %2
+    ./fetch-ap.sh
     gitupload .
 done
