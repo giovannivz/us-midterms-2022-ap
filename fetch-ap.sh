@@ -10,4 +10,4 @@ python3 updated.py
 
 cat updated-urls.txt | xargs -n 2 -P 5 ./download.sh
 
-sleep 5
+#sleep 5
