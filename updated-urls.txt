@@ -1,3 +1,0 @@
-AP/20221108MN24007 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/MN/20221108MN24007/detail.json
-AP/20221108MN24007 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/MN/20221108MN24007/metadata.json
-AP/20221108MN24007 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/MN/20221108MN24007/summary.json
