@@ -46,12 +46,10 @@ def fetch_url(line):
 		f.write(json.dumps(timestamp))
 
 urls = open(sys.argv[1]).read().strip()
-print(urls)
 
-urls = urls.split("\n")
-
-if len(urls) == 0:
+if urls == "":
 	sys.exit(0)
 
 with multiprocessing.Pool(processes=MAX_PROCS) as pool:
+	urls = urls.split("\n")
 	pool.map(fetch_url, urls)
