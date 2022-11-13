@@ -21,7 +21,8 @@ for key, race in js.items():
 		print('cant parse detail', e)
 		pass
 
-	print(timestamp)
+	if race['lastUpdated'] != timestamp:
+		print(f'updated {key}')
 
 	urls.write(f"https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/{race['statePostal']}/{race['raceID']}/detail.json\n")
 	urls.write(f"https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/{race['statePostal']}/{race['raceID']}/metadata.json\n")
