@@ -12,13 +12,14 @@ for key, race in js.items():
 	if not os.path.exists(path):
 		os.mkdir(path)
 
-	tspath = f'AP/{key}/timestamp'
 	timestamp = None
 
-	if os.path.exists(tspath):
-		ts = open(tspath)
-		timestamp = ts.read()
-		ts.close()
+	try:
+		cur = js.load(open(f'{path}/detail.json'))
+		timestamp = cur['summary']['lastUpdated']
+	except:
+		print('cant parse detail')
+		pass
 
 	urls.write(f"https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/{race['statePostal']}/{race['raceID']}/detail.json\n")
 	urls.write(f"https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/{race['statePostal']}/{race['raceID']}/metadata.json\n")
