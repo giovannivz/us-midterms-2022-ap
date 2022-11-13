@@ -1,0 +1,2 @@
+AP https://interactives.ap.org/election-results/data-live/2022-11-08/results/national/progress.json
+AP https://interactives.ap.org/election-results/data-live/2022-11-08/results/national/metadata.json
