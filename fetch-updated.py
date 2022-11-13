@@ -46,8 +46,10 @@ def fetch_url(line):
 		f.write(json.dumps(timestamp))
 
 urls = open(sys.argv[1]).read().strip()
-urls = urls.split("\n")
 print(urls)
+
+urls = urls.split("\n")
+
 if len(urls) == 0:
 	sys.exit(0)
 
