@@ -9,3 +9,5 @@ download "AP" https://interactives.ap.org/election-results/data-live/2022-11-08/
 python3 updated.py
 
 cat updated-urls.txt | xargs -n 2 -P 5 ./download.sh
+
+sleep 5
