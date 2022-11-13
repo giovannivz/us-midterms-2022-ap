@@ -48,6 +48,8 @@ def fetch_url(line):
 urls = open(sys.argv[1]).read().strip()
 urls = urls.split("\n")
 
-if len(urls) > 0:
-	with multiprocessing.Pool(processes=MAX_PROCS) as pool:
-		pool.map(fetch_url, urls)
+if len(urls) == 0:
+	sys.exit(0)
+
+with multiprocessing.Pool(processes=MAX_PROCS) as pool:
+	pool.map(fetch_url, urls)
