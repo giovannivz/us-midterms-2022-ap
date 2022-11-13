@@ -5,5 +5,5 @@
 while [ 1 ]; do
     ./fetch-ap.sh
     gitupload .
-    sleep 10
+    sleep 5
 done
