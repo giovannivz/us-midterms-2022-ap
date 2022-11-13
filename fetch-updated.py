@@ -47,7 +47,7 @@ def fetch_url(line):
 
 urls = open(sys.argv[1]).read().strip()
 urls = urls.split("\n")
-
+print(urls)
 if len(urls) == 0:
 	sys.exit(0)
 
