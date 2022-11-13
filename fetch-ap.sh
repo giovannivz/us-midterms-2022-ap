@@ -8,8 +8,6 @@
 
 python3 fetch-updated.py ap-base-urls.txt
 
-python3 updated.py
+python3 gen-updated-urls.py
 
 cat updated-urls.txt | xargs -n 2 -P 1 ./download.sh
-
-#sleep 5
