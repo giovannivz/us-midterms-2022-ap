@@ -7,7 +7,6 @@
 #download "AP" https://interactives.ap.org/election-results/data-live/2022-11-08/results/national/metadata.json
 
 python3 fetch-updated.py ap-base-urls.txt
-
 python3 gen-updated-urls.py
 
-cat updated-urls.txt | xargs -n 2 -P 1 ./download.sh
+python3 fetch-updated.py updated-urls.txt
