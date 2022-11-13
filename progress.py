@@ -17,8 +17,8 @@ for key, race in js.items():
 	try:
 		cur = js.load(open(f'{path}/detail.json'))
 		timestamp = cur['summary']['lastUpdated']
-	except:
-		print('cant parse detail')
+	except e:
+		print('cant parse detail', e)
 		pass
 
 	urls.write(f"https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/{race['statePostal']}/{race['raceID']}/detail.json\n")
