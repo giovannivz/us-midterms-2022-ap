@@ -1,0 +1,6 @@
+AP/20221108MI23816 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/MI/20221108MI23816/detail.json
+AP/20221108MI23816 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/MI/20221108MI23816/metadata.json
+AP/20221108MI23816 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/MI/20221108MI23816/summary.json
+AP/20221108TX45901 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/TX/20221108TX45901/detail.json
+AP/20221108TX45901 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/TX/20221108TX45901/metadata.json
+AP/20221108TX45901 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/TX/20221108TX45901/summary.json
