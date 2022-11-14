@@ -1,6 +1,9 @@
-AP/20221108TX45884 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/TX/20221108TX45884/detail.json
-AP/20221108TX45884 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/TX/20221108TX45884/metadata.json
-AP/20221108TX45884 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/TX/20221108TX45884/summary.json
-AP/20221108TX45901 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/TX/20221108TX45901/detail.json
-AP/20221108TX45901 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/TX/20221108TX45901/metadata.json
-AP/20221108TX45901 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/TX/20221108TX45901/summary.json
+AP/20221108TX45883 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/TX/20221108TX45883/detail.json
+AP/20221108TX45883 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/TX/20221108TX45883/metadata.json
+AP/20221108TX45883 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/TX/20221108TX45883/summary.json
+AP/20221108TX45893 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/TX/20221108TX45893/detail.json
+AP/20221108TX45893 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/TX/20221108TX45893/metadata.json
+AP/20221108TX45893 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/TX/20221108TX45893/summary.json
+AP/20221108TX45900 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/TX/20221108TX45900/detail.json
+AP/20221108TX45900 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/TX/20221108TX45900/metadata.json
+AP/20221108TX45900 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/TX/20221108TX45900/summary.json
