@@ -1,6 +1,0 @@
-AP/20221108IA17074 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/IA/20221108IA17074/detail.json
-AP/20221108IA17074 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/IA/20221108IA17074/metadata.json
-AP/20221108IA17074 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/IA/20221108IA17074/summary.json
-AP/20221108IA17072 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/IA/20221108IA17072/detail.json
-AP/20221108IA17072 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/IA/20221108IA17072/metadata.json
-AP/20221108IA17072 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/IA/20221108IA17072/summary.json
