@@ -1,9 +1,0 @@
-AP/20221108KS17752 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/KS/20221108KS17752/detail.json
-AP/20221108KS17752 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/KS/20221108KS17752/metadata.json
-AP/20221108KS17752 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/KS/20221108KS17752/summary.json
-AP/20221108OR38532 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/OR/20221108OR38532/detail.json
-AP/20221108OR38532 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/OR/20221108OR38532/metadata.json
-AP/20221108OR38532 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/OR/20221108OR38532/summary.json
-AP/20221108TX45901 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/TX/20221108TX45901/detail.json
-AP/20221108TX45901 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/TX/20221108TX45901/metadata.json
-AP/20221108TX45901 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/TX/20221108TX45901/summary.json
