@@ -1,0 +1,6 @@
+AP/20221108FL10041 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/FL/20221108FL10041/detail.json
+AP/20221108FL10041 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/FL/20221108FL10041/metadata.json
+AP/20221108FL10041 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/FL/20221108FL10041/summary.json
+AP/20221108FL10045 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/FL/20221108FL10045/detail.json
+AP/20221108FL10045 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/FL/20221108FL10045/metadata.json
+AP/20221108FL10045 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/FL/20221108FL10045/summary.json
