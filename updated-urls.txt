@@ -1,3 +1,0 @@
-AP/20221108TX45871 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/TX/20221108TX45871/detail.json
-AP/20221108TX45871 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/TX/20221108TX45871/metadata.json
-AP/20221108TX45871 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/TX/20221108TX45871/summary.json
