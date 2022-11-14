@@ -1,0 +1,9 @@
+AP/20221108RI40005 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/RI/20221108RI40005/detail.json
+AP/20221108RI40005 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/RI/20221108RI40005/metadata.json
+AP/20221108RI40005 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/RI/20221108RI40005/summary.json
+AP/20221108RI40015 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/RI/20221108RI40015/detail.json
+AP/20221108RI40015 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/RI/20221108RI40015/metadata.json
+AP/20221108RI40015 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/RI/20221108RI40015/summary.json
+AP/20221108RI40017 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/RI/20221108RI40017/detail.json
+AP/20221108RI40017 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/RI/20221108RI40017/metadata.json
+AP/20221108RI40017 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/RI/20221108RI40017/summary.json
