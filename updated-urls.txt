@@ -1,3 +1,3 @@
-AP/20221108NY40470 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/NY/20221108NY40470/detail.json
-AP/20221108NY40470 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/NY/20221108NY40470/metadata.json
-AP/20221108NY40470 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/NY/20221108NY40470/summary.json
+AP/20221108FL12231 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/FL/20221108FL12231/detail.json
+AP/20221108FL12231 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/FL/20221108FL12231/metadata.json
+AP/20221108FL12231 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/FL/20221108FL12231/summary.json
