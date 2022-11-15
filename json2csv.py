@@ -1,66 +1,59 @@
 import json
+import pandas as pd
+import subprocess
 import sys
-import csv
 
-def recurse(item, prefix=None):
-    if type(item) is dict:
-        result = {}
+def revisions(filename):
+	output = subprocess.check_output(['git', 'log', '--pretty=%H %ct %ci', filename])
+	lines = output.decode('UTF-8').rstrip().split("\n")
+	return [
+		line.split(" ", 2) for line in lines
+	]
 
-        if item:
-            first_key = list(item.keys())[0]
+def getrevision(filename, ref):
+	output = subprocess.check_output(['git', 'show', f'{ref}:{filename}'])
+	return output.decode('UTF-8').rstrip()
 
-            if first_key.endswith('_id'):
-                first_val = list(item.values())[0]
-                prefix = f'{prefix}_{first_val}'
+def recurse(data: dict, value, prefix = ''):
+	if isinstance(value, dict):
+		if prefix:
+			prefix = prefix + "."
 
-        for key in item:
-            new_key = f'{prefix}_{key}'
-            recursed = recurse(item[key], new_key)
+		for key, val in value.items():
+			recurse(data, val, f"{prefix}{key}")
 
-            if type(recursed) is dict:
-                for subkey in recursed:
-                    result[f'{key}_{subkey}'] = recursed[subkey]
-            else:
-                result[key] = recursed
+	elif isinstance(value, list):
+		if prefix:
+			prefix = prefix + "."
 
-        return result
+		for idx, val in enumerate(value):
+			recurse(data, val, f"{prefix}{idx}")
 
-    if item and type(item) is list and type(item[0]) is dict:
-        print(f"writing {prefix}.csv")
+	else:
+		data[prefix] = value
 
-        fp = None
-        writer = None
-        keys = []
+def parse(data: dict):
+	result = {}
+	recurse(result, data)
+	return result
 
-        for row in item:
-            if not row:
-                continue
+revs = reversed(revisions(sys.argv[1]))
+rows = []
 
-            row = recurse(row, prefix)
+for rev in revs:
+	ref, timestamp, rfcdate = rev
 
-            if not fp:
-                fp = open(f'{prefix}.csv', 'w')
-                writer = csv.writer(fp)
-                keys = row.keys()
-                writer.writerow(keys)
+	txt = getrevision(sys.argv[1], ref)
+	js = json.loads(txt)
 
-            writer.writerow([row.get(key, '') for key in keys])
+	item = parse(js)
 
-        if fp:
-            fp.close()
+	rows.append({
+		'captureTimestamp': timestamp,
+		'captureDateTime': rfcdate,
+		'captureRevision': ref,
+		**item
+	})
 
-        return ''
-
-    if type(item) is list:
-        return ','.join(item)
-
-    return item
-
-if len(sys.argv) != 2:
-    print(f'{sys.argv[0]} file.json')
-    sys.exit(1)
-
-# load json file
-with open(sys.argv[1], 'r') as f:
-    js = json.load(f)
-    recurse(js['data']['races'], 'races')
+df = pd.DataFrame.from_records(rows)
+df.to_csv(sys.argv[2], index=False)
