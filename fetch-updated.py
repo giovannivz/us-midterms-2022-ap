@@ -31,7 +31,7 @@ def fetch_url(line):
 	if timestamp.get('ETag', None):
 		headers['If-None-Match'] = timestamp['ETag']
 
-	rq = requests.get(url, headers=headers)
+	rq = requests.get(url, headers=headers, timeout=5)
 
 	print(rq.status_code, url, headers)
 
