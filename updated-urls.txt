@@ -1,0 +1,6 @@
+AP/20221108AZ3014 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/AZ/20221108AZ3014/detail.json
+AP/20221108AZ3014 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/AZ/20221108AZ3014/metadata.json
+AP/20221108AZ3014 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/AZ/20221108AZ3014/summary.json
+AP/20221108OR38532 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/OR/20221108OR38532/detail.json
+AP/20221108OR38532 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/OR/20221108OR38532/metadata.json
+AP/20221108OR38532 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/OR/20221108OR38532/summary.json
