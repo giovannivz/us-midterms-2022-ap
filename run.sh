@@ -8,6 +8,7 @@ while [ 1 ]; do
     gitcommit .
 
     if (( $RANDOM % 30 == 0 )); then
+        sh gen-ref-csv-files.sh HEAD
         gitupload
     fi
 
