@@ -1,0 +1,3 @@
+AP/20221108MO26027 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/MO/20221108MO26027/detail.json
+AP/20221108MO26027 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/MO/20221108MO26027/metadata.json
+AP/20221108MO26027 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/MO/20221108MO26027/summary.json
