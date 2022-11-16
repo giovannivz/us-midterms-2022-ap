@@ -1,3 +1,0 @@
-AP/20221108NV31212 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/NV/20221108NV31212/detail.json
-AP/20221108NV31212 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/NV/20221108NV31212/metadata.json
-AP/20221108NV31212 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/NV/20221108NV31212/summary.json
