@@ -1,3 +1,0 @@
-AP/20221108AK2933 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/AK/20221108AK2933/detail.json
-AP/20221108AK2933 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/AK/20221108AK2933/metadata.json
-AP/20221108AK2933 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/AK/20221108AK2933/summary.json
