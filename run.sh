@@ -11,5 +11,5 @@ while [ 1 ]; do
         gitupload
     fi
 
-    sleep 30
+    sleep 10
 done
