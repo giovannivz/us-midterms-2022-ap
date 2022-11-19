@@ -1,0 +1,12 @@
+AP/20221108AK2010 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/AK/20221108AK2010/detail.json
+AP/20221108AK2010 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/AK/20221108AK2010/metadata.json
+AP/20221108AK2010 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/AK/20221108AK2010/summary.json
+AP/20221108AK2015 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/AK/20221108AK2015/detail.json
+AP/20221108AK2015 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/AK/20221108AK2015/metadata.json
+AP/20221108AK2015 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/AK/20221108AK2015/summary.json
+AP/20221108AK2933 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/AK/20221108AK2933/detail.json
+AP/20221108AK2933 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/AK/20221108AK2933/metadata.json
+AP/20221108AK2933 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/AK/20221108AK2933/summary.json
+AP/20221108AK3152 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/AK/20221108AK3152/detail.json
+AP/20221108AK3152 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/AK/20221108AK3152/metadata.json
+AP/20221108AK3152 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/AK/20221108AK3152/summary.json
