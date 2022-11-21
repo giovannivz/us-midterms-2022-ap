@@ -1,6 +1,0 @@
-AP/20221108NJ31202 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/NJ/20221108NJ31202/detail.json
-AP/20221108NJ31202 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/NJ/20221108NJ31202/metadata.json
-AP/20221108NJ31202 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/NJ/20221108NJ31202/summary.json
-AP/20221108NJ31205 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/NJ/20221108NJ31205/detail.json
-AP/20221108NJ31205 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/NJ/20221108NJ31205/metadata.json
-AP/20221108NJ31205 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/NJ/20221108NJ31205/summary.json
