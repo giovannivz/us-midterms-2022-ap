@@ -1,6 +1,0 @@
-AP/20221108VA47007 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/VA/20221108VA47007/detail.json
-AP/20221108VA47007 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/VA/20221108VA47007/metadata.json
-AP/20221108VA47007 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/VA/20221108VA47007/summary.json
-AP/20221108VA47011 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/VA/20221108VA47011/detail.json
-AP/20221108VA47011 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/VA/20221108VA47011/metadata.json
-AP/20221108VA47011 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/VA/20221108VA47011/summary.json
