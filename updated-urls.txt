@@ -1,6 +1,3 @@
-AP/20221108NC34973 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/NC/20221108NC34973/detail.json
-AP/20221108NC34973 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/NC/20221108NC34973/metadata.json
-AP/20221108NC34973 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/NC/20221108NC34973/summary.json
-AP/20221108NC35385 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/NC/20221108NC35385/detail.json
-AP/20221108NC35385 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/NC/20221108NC35385/metadata.json
-AP/20221108NC35385 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/NC/20221108NC35385/summary.json
+AP/20221108AZ3920 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/AZ/20221108AZ3920/detail.json
+AP/20221108AZ3920 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/AZ/20221108AZ3920/metadata.json
+AP/20221108AZ3920 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/AZ/20221108AZ3920/summary.json
