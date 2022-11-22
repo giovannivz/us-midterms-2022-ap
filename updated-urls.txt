@@ -1,6 +1,12 @@
+AP/20221108NV3 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/NV/20221108NV3/detail.json
+AP/20221108NV3 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/NV/20221108NV3/metadata.json
+AP/20221108NV3 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/NV/20221108NV3/summary.json
 AP/20221108NV29861 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/NV/20221108NV29861/detail.json
 AP/20221108NV29861 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/NV/20221108NV29861/metadata.json
 AP/20221108NV29861 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/NV/20221108NV29861/summary.json
+AP/20221108NV30155 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/NV/20221108NV30155/detail.json
+AP/20221108NV30155 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/NV/20221108NV30155/metadata.json
+AP/20221108NV30155 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/NV/20221108NV30155/summary.json
 AP/20221108NV30323 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/NV/20221108NV30323/detail.json
 AP/20221108NV30323 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/NV/20221108NV30323/metadata.json
 AP/20221108NV30323 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/NV/20221108NV30323/summary.json
