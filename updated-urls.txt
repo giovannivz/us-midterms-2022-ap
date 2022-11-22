@@ -1,3 +1,6 @@
+AP/20221108NC35384 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/NC/20221108NC35384/detail.json
+AP/20221108NC35384 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/NC/20221108NC35384/metadata.json
+AP/20221108NC35384 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/NC/20221108NC35384/summary.json
 AP/20221108OR38019 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/OR/20221108OR38019/detail.json
 AP/20221108OR38019 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/OR/20221108OR38019/metadata.json
 AP/20221108OR38019 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/OR/20221108OR38019/summary.json
@@ -16,12 +19,3 @@ AP/20221108OR39168 https://interactives.ap.org/election-results/data-live/2022-1
 AP/20221108OR39170 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/OR/20221108OR39170/detail.json
 AP/20221108OR39170 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/OR/20221108OR39170/metadata.json
 AP/20221108OR39170 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/OR/20221108OR39170/summary.json
-AP/20221108NC35384 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/NC/20221108NC35384/detail.json
-AP/20221108NC35384 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/NC/20221108NC35384/metadata.json
-AP/20221108NC35384 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/NC/20221108NC35384/summary.json
-AP/20221108OR38531 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/OR/20221108OR38531/detail.json
-AP/20221108OR38531 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/OR/20221108OR38531/metadata.json
-AP/20221108OR38531 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/OR/20221108OR38531/summary.json
-AP/20221108OR38532 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/OR/20221108OR38532/detail.json
-AP/20221108OR38532 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/OR/20221108OR38532/metadata.json
-AP/20221108OR38532 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/OR/20221108OR38532/summary.json
