@@ -1,0 +1,3 @@
+AP/20221108CA8966 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/CA/20221108CA8966/detail.json
+AP/20221108CA8966 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/CA/20221108CA8966/metadata.json
+AP/20221108CA8966 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/CA/20221108CA8966/summary.json
