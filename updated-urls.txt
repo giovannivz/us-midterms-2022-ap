@@ -1,0 +1,3 @@
+AP/20221108PA39303 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/PA/20221108PA39303/detail.json
+AP/20221108PA39303 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/PA/20221108PA39303/metadata.json
+AP/20221108PA39303 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/PA/20221108PA39303/summary.json
