@@ -1,0 +1,12 @@
+AP/20221108MD21746 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/MD/20221108MD21746/detail.json
+AP/20221108MD21746 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/MD/20221108MD21746/metadata.json
+AP/20221108MD21746 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/MD/20221108MD21746/summary.json
+AP/20221108MD21760 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/MD/20221108MD21760/detail.json
+AP/20221108MD21760 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/MD/20221108MD21760/metadata.json
+AP/20221108MD21760 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/MD/20221108MD21760/summary.json
+AP/20221108MD22916 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/MD/20221108MD22916/detail.json
+AP/20221108MD22916 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/MD/20221108MD22916/metadata.json
+AP/20221108MD22916 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/MD/20221108MD22916/summary.json
+AP/20221108NM32238 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/NM/20221108NM32238/detail.json
+AP/20221108NM32238 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/NM/20221108NM32238/metadata.json
+AP/20221108NM32238 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/NM/20221108NM32238/summary.json
