@@ -1,0 +1,12 @@
+AP/20221108KY18624 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/KY/20221108KY18624/detail.json
+AP/20221108KY18624 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/KY/20221108KY18624/metadata.json
+AP/20221108KY18624 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/KY/20221108KY18624/summary.json
+AP/20221108KY18835 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/KY/20221108KY18835/detail.json
+AP/20221108KY18835 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/KY/20221108KY18835/metadata.json
+AP/20221108KY18835 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/KY/20221108KY18835/summary.json
+AP/20221108KY18847 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/KY/20221108KY18847/detail.json
+AP/20221108KY18847 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/KY/20221108KY18847/metadata.json
+AP/20221108KY18847 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/KY/20221108KY18847/summary.json
+AP/20221108KY18878 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/KY/20221108KY18878/detail.json
+AP/20221108KY18878 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/KY/20221108KY18878/metadata.json
+AP/20221108KY18878 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/KY/20221108KY18878/summary.json
