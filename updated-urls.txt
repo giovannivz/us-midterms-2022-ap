@@ -1,3 +1,0 @@
-AP/20221108KY18622 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/KY/20221108KY18622/detail.json
-AP/20221108KY18622 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/KY/20221108KY18622/metadata.json
-AP/20221108KY18622 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/KY/20221108KY18622/summary.json
