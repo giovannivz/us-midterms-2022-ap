@@ -1,3 +1,3 @@
-AP/20221108VT46972 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/VT/20221108VT46972/detail.json
-AP/20221108VT46972 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/VT/20221108VT46972/metadata.json
-AP/20221108VT46972 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/VT/20221108VT46972/summary.json
+AP/20221108VT46373 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/VT/20221108VT46373/detail.json
+AP/20221108VT46373 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/VT/20221108VT46373/metadata.json
+AP/20221108VT46373 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/VT/20221108VT46373/summary.json
