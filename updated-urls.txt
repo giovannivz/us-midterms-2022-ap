@@ -1,0 +1,12 @@
+AP/20221108WI50064 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/WI/20221108WI50064/detail.json
+AP/20221108WI50064 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/WI/20221108WI50064/metadata.json
+AP/20221108WI50064 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/WI/20221108WI50064/summary.json
+AP/20221108WI50056 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/WI/20221108WI50056/detail.json
+AP/20221108WI50056 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/WI/20221108WI50056/metadata.json
+AP/20221108WI50056 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/WI/20221108WI50056/summary.json
+AP/20221108WI50060 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/WI/20221108WI50060/detail.json
+AP/20221108WI50060 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/WI/20221108WI50060/metadata.json
+AP/20221108WI50060 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/WI/20221108WI50060/summary.json
+AP/20221108WI50052 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/WI/20221108WI50052/detail.json
+AP/20221108WI50052 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/WI/20221108WI50052/metadata.json
+AP/20221108WI50052 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/WI/20221108WI50052/summary.json
