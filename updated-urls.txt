@@ -1,3 +1,0 @@
-AP/20221108AR6092 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/AR/20221108AR6092/detail.json
-AP/20221108AR6092 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/AR/20221108AR6092/metadata.json
-AP/20221108AR6092 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/AR/20221108AR6092/summary.json
