@@ -1,6 +1,0 @@
-AP/20221108WV49273 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/WV/20221108WV49273/detail.json
-AP/20221108WV49273 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/WV/20221108WV49273/metadata.json
-AP/20221108WV49273 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/WV/20221108WV49273/summary.json
-AP/20221108WV49274 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/WV/20221108WV49274/detail.json
-AP/20221108WV49274 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/WV/20221108WV49274/metadata.json
-AP/20221108WV49274 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/WV/20221108WV49274/summary.json
