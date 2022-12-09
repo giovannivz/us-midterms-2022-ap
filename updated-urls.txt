@@ -1,0 +1,3 @@
+AP/20221108OH36021 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/OH/20221108OH36021/detail.json
+AP/20221108OH36021 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/OH/20221108OH36021/metadata.json
+AP/20221108OH36021 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/OH/20221108OH36021/summary.json
