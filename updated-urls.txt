@@ -1,3 +1,0 @@
-AP/20221108TN43743 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/TN/20221108TN43743/detail.json
-AP/20221108TN43743 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/TN/20221108TN43743/metadata.json
-AP/20221108TN43743 https://interactives.ap.org/election-results/data-live/2022-11-08/results/races/TN/20221108TN43743/summary.json
